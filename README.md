@@ -1,10 +1,11 @@
-### <h2 align="centre">Hi there 👋, </h2>
-### <h1 align="centre">Vana Seraydarian here</h1>
-### <h3 align="centre">✨I am currently a Full Stack Software Development :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+### <h2 align="center">Hi there 👋, </h2>
+### <h1 align="center">I'm Vana Seraydarian from Lebanon</h1>
+### <h3 align="center">✨I am currently a  Full-stack software developer :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+&nbsp;
  
 ## <p align="center">Welcome To My Profile</p>
  
-💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using JavaScript. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
+💻 I am a **<i> Full-stack software developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using JavaScript. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
  
 ## <p align="center">My Professional Stats</p>
  
@@ -42,9 +43,12 @@
 - I’m interested in web designing and :desktop_computer: developing an app. I love creating, designing and one day I will definitely create a website and/or application that everyone will use like Instagram 🦾!
 - :+1: I have very active internal mental processes, and confident individualism. I'm an INFJ; which means that I'm very creative, insightful, principled, passionate, and altruistic. I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organised and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practised through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
+- I'm currently available for hire or open to new job opportunities.
 &nbsp;
  
 ## About Me
+
+- [Portfolio]() coming soon
  
 ## Hobbies
   - I love to read books! I regularly try to read new genres of book mostly adventure, sci-fi, fantasy, and mystery.
