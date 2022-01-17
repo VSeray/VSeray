@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋, </h2>
 ### <h1 align="center">I'm Vana Seraydarian from Lebanon</h1>
-### <h3 align="center">✨I am currently a  Full-stack software developer :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
+### <h3 align="center">✨I am currently a Full-stack software developer :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)✨</h3>
 &nbsp;
  
 ## <p align="center">Welcome To My Profile</p>
