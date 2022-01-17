@@ -5,7 +5,7 @@
  
 ## <p align="center">Welcome To My Profile</p>
  
-💻 I am a **<i> Full-stack software developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using JavaScript. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming.
+💻 I am a **<i> Full-stack software developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using JavaScript. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short time, and remote collaboration through pair programming.
  
 ## <p align="center">My Professional Stats</p>
  
@@ -47,7 +47,7 @@
 &nbsp;
  
 ## About Me
-
+ 
 - [Portfolio]() coming soon
  
 ## Hobbies
