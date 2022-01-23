@@ -48,7 +48,7 @@
  
 ## About Me
  
-- [Portfolio]() coming soon
+- <p>You can check out my portfolio <a href="https://vseray.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
  
 ## Hobbies
   - I love to read books! I regularly try to read new genres of books mostly adventure, sci-fi, fantasy, and mystery.
